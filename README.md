@@ -2,6 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NayamAmarshe&count_private=true&include_all_commits=true)
 
-Contact:
+## Contact:
 
-Telegram: https://t.me/NayamAmarshe
+**Telegram:** https://t.me/NayamAmarshe
