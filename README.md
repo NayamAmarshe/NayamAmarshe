@@ -3,7 +3,7 @@
 # A poem
 "I build stuff.\
 Good stuff.\
-Helpful stuff (I hope)."   
+Useful stuff (I hope)."   
 \- **Nayam Amarshe (1867)**
 
 <h2>Contact:</h2>
