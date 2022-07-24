@@ -1,10 +1,6 @@
 <div align="center">
 
-# A poem
-"I build stuff.\
-Good stuff.\
-Useful stuff (I hope)."   
-\- **Nayam Amarshe (1867)**
+too many shiny buttons, but not enough sunglasses
 
 <h2>Contact:</h2>
 
